@@ -1,0 +1,2 @@
+[Rol Programador]
+Cambio en la distancia de escaneo de laser
